@@ -9,9 +9,9 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Atgp\FacturX;
+namespace Baudetail\FacturX;
 
-use Atgp\FacturX\Fpdi\FdpiFacturx;
+use Baudetail\FacturX\Fpdi\FdpiFacturx;
 
 class Facturx
 {
